@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    opacity: 0.9;
+    text-align: center;
+}
+header{
+    height: 69px;
+    position: fixed;
+    border-bottom: 1px solid seashell;
+    width: 100%;
+    z-index: 1;
+    background-color: black;
+}
+nav{
+    text-align: right;
+}
+header img {
+    height: 50px;
+    padding-left: 10px;
+    float: left;
+}
